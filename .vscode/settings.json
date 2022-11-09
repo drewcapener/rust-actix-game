@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "/workspaces/rust-actix-game/actix_game/Cargo.toml"
+    ]
+}
